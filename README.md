@@ -4,7 +4,7 @@
 
 ## Hi there, I'm antbag - aka your cute dev 👋
 
-## I'm a thirteen years Developer!👋
+## I'm a Developer!👋
 - 🖥 I'm currently working on pocketmine plugins
 - 🌱 I'm currently learning PHP,DiscordAPI
 - 🤝 I'm looking to collaborate with other pocketmine devevelopers
