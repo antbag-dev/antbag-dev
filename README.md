@@ -11,7 +11,8 @@
 - 🥅 2023 Goals: Develop a new skyblock core
 - ⚡️ Fun fact: I am a OP Gamer
 
-  
+![](https://komarev.com/ghpvc/?username=antbag-dev&color=green)
+
 ![antbag's! GitHub stats](https://github-readme-stats.vercel.app/api?username=antbag-dev&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antbag-dev&hide_progress=true)
