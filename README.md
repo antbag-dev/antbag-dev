@@ -6,7 +6,7 @@
 
 ## I'm a Developer!👋
 - 🖥 I'm currently working on pocketmine plugins
-- 🌱 I'm currently learning PHP,DiscordAPI
+- 🌱 I'm currently learning PHP, DiscordAPI
 - 🤝 I'm looking to collaborate with other pocketmine devevelopers
 - 🥅 2023 Goals: Develop a new skyblock core
 - ⚡️ Fun fact: I am a OP Gamer
