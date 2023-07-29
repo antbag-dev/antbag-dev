@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+There,+antbag+Here!;A+Self+Taught+PHP+Developer!;Founde+Of+LavaMC™️!"></a> </p>
+## <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+There,+antbag+Here!;A+Self+Taught+PHP+Developer!;Founde+Of+LavaMC™️!"></a> </p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="103"/>
