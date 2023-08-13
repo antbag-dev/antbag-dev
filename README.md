@@ -1,23 +1,33 @@
-## <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+There,+antbag+Here!;A+Self+Taught+PHP+Developer!;Founder+Of+LavaMC™️!"></a> </p>
+<h1 align="center">Hi 👋, I'm Antbag</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="103"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antbag-dev&label=Profile%20views&color=0e75b6&style=flat" alt="antbag-dev" /> </p>
 
-## Hi there, I'm antbag - aka your cute dev 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antbag-dev" alt="antbag-dev" /></a> </p>
 
-## I'm a Developer!👋
-- 🖥 I'm currently working on pocketmine plugins
-- 🌱 I'm currently learning PHP, DiscordAPI
-- 🤝 I'm looking to collaborate with other pocketmine devevelopers
-- 🥅 2023 Goals: Develop a new skyblock core
-- ⚡️ Fun fact: I am a OP Gamer
+- 🔭 I’m currently working on **LavaSky**
 
- ## ![](https://komarev.com/ghpvc/?username=antbag-dev&color=red)
+- 🌱 I’m currently learning **PHP, JavaScript, Kotlin**
 
-![antbag's! GitHub stats](https://github-readme-stats.vercel.app/api?username=antbag-dev&show_icons=true&theme=radical)
+- 👯 I’m looking to collaborate on [LavaMC](https://github.com/LavaMCPE)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antbag-dev&hide_progress=true)
-# Connect with me:
+- 💬 Ask me about **PHP**
 
-<img src="https://img.icons8.com/ios/50/000000/youtube--v1.png"/>
+- 📫 How to reach me **Dm me on Discord arr0001**
+
+- ⚡ Fun fact **I think you are funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/antbag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="antbag" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/ZStVwcepJH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZStVwcepJH" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antbag-dev&show_icons=true&locale=en&layout=compact" alt="antbag-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antbag-dev&show_icons=true&locale=en" alt="antbag-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antbag-dev&" alt="antbag-dev" /></p>
