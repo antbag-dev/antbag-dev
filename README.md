@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antbag-dev&show_icons=true&locale=en&layout=compact" alt="antbag-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antbag-dev&colour=black&show_icons=true&locale=en" alt="antbag-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antbag-dev&theme=radical&show_icons=true&locale=en" alt="antbag-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antbag-dev&" alt="antbag-dev" /></p>
